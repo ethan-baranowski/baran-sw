@@ -128,7 +128,7 @@ params:
   section3:
     title: One platform
     subtitle: To rule them all
-    image: illustrations/mockups/app-mockup.png
+    video: /videos/BSW.mp4
     buttonText: Get started
     buttonLink: "#"
   section4:
